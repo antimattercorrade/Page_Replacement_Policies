@@ -1,4 +1,4 @@
-## Cache Policies ⭐
+## Page Replacement Policies ⭐
 
 Implementation of various page replacement policies including First in First out (FIFO), Least Recently Used (LRU), Approximate LRU and Random on Looping, No Locality and 80-20 workloads. 
 
